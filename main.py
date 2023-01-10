@@ -4,7 +4,7 @@ import os
 import textwrap
 
 # Cohere API key
-api_key = os.environ["CO_KEY"]
+api_key = os.environ["Hznbor1JlBYUxwVIfBp5EGHXOzngZrGbVojdx7nh"]
 
 # Set up Cohere client
 co = cohere.Client(api_key)
